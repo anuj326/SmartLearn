@@ -1,0 +1,15 @@
+.bottomnav {
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: black;
+    overflow: hidden;
+    height: 40px;
+    padding: 5px;
+    
+}
+.icon{
+    margin-bottom: 50px;
+}
+.mb-3 {
+    margin-bottom: 2rem!important;
+}

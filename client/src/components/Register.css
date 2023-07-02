@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.fa-user-plus{
+    padding: 10px;
+    font-size: 100px;
+    color: #3bad25;
+}
+.btl a{
+    text-decoration: none;
+    color: white;
+}
